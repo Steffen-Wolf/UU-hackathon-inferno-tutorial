@@ -1,0 +1,2198 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inde",
+				"index_"
+			],
+			[
+				"hook",
+				"hook_handle\tstatement"
+			],
+			[
+				"iter",
+				"iterations\t(train_utils.py)"
+			],
+			[
+				"para",
+				"parameters"
+			],
+			[
+				"Para",
+				"Parameter"
+			],
+			[
+				"critic",
+				"critic_energy"
+			],
+			[
+				"from",
+				"from_numpy"
+			],
+			[
+				"action",
+				"action_diff"
+			],
+			[
+				"rqu",
+				"requires_grad"
+			],
+			[
+				"cri",
+				"critic_energy"
+			],
+			[
+				"net",
+				"net_arch\t(city.conf)"
+			],
+			[
+				"gt_s",
+				"gt_seeds_exploration_reward"
+			],
+			[
+				"expe",
+				"expected_object_size"
+			],
+			[
+				"valid",
+				"validation"
+			],
+			[
+				"plo",
+				"plot_intermediate\t(test_rapoport.conf)"
+			],
+			[
+				"on",
+				"ones\t(rapoport.conf)"
+			],
+			[
+				"ri",
+				"right_padding"
+			],
+			[
+				"le",
+				"left_padding"
+			],
+			[
+				"dimI",
+				"dimIdx+2"
+			],
+			[
+				"cla",
+				"class\tNew Class"
+			],
+			[
+				"direction",
+				"direction_indiex"
+			],
+			[
+				"out",
+				"out_lr"
+			],
+			[
+				"last",
+				"last_out\t(dense_unet.py)"
+			],
+			[
+				"un",
+				"unet\t(city.conf)"
+			],
+			[
+				"nd",
+				"ndims\t(learnedWS_old.py)"
+			],
+			[
+				"dir",
+				"directions"
+			],
+			[
+				"get_lab",
+				"get_label_image\t(training_mutations.py)"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"see",
+				"seed_call"
+			],
+			[
+				"merge",
+				"merge_call"
+			],
+			[
+				"num",
+				"num_inst_cl\tstatement"
+			],
+			[
+				"find",
+				"find_sets"
+			],
+			[
+				"n",
+				"n_points"
+			],
+			[
+				"no",
+				"nogil"
+			],
+			[
+				"merg",
+				"merge_net\t(dense_unet.py)"
+			],
+			[
+				"pr",
+				"product\tfunction"
+			],
+			[
+				"allne",
+				"allnet"
+			],
+			[
+				"dty",
+				"dtype_t"
+			],
+			[
+				"dense",
+				"dense_unet"
+			],
+			[
+				"seeded",
+				"seeded_labels"
+			],
+			[
+				"seed",
+				"seeded"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"ed",
+				"edge_weights"
+			],
+			[
+				"che",
+				"cheapest"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"ret",
+				"return_seg"
+			],
+			[
+				"print",
+				"print(\"WARNING"
+			],
+			[
+				"base",
+				"base_model"
+			],
+			[
+				"sc",
+				"scores"
+			],
+			[
+				"cur",
+				"current_parameters\tstatement"
+			],
+			[
+				"t",
+				"type=int"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"prt",
+				"property\tclass"
+			],
+			[
+				"call",
+				"callbacks"
+			],
+			[
+				"Se",
+				"SegError"
+			],
+			[
+				"arg",
+				"argsort\t(learnedWS_old.py)"
+			],
+			[
+				"loo",
+				"look_ahead\t(learnedWS.py)"
+			],
+			[
+				"get_ac",
+				"get_action_counter"
+			],
+			[
+				"loa",
+				"look_ahead_constrained_uf"
+			],
+			[
+				"stop",
+				"stop_after_seed"
+			],
+			[
+				"kr",
+				"kruskal_iteration"
+			],
+			[
+				"wei",
+				"weights"
+			],
+			[
+				"cu",
+				"current_parameters\tstatement"
+			],
+			[
+				"model",
+				"model.pytorch\t(cityscapes_pretraining.conf)"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"__d",
+				"__dict__\t(learnedWS.py)"
+			],
+			[
+				"weights",
+				"weights_copy\t(module.py)"
+			],
+			[
+				"op",
+				"output_shape\tstatement"
+			],
+			[
+				"sli",
+				"slice_score"
+			],
+			[
+				"jac",
+				"jaccardScore"
+			],
+			[
+				"grou",
+				"groundtruth_label_image"
+			],
+			[
+				"vis",
+				"visualizer"
+			],
+			[
+				"N",
+				"None\tinstance"
+			],
+			[
+				"en",
+				"enumerate\t(prepare_cityscapes.py)"
+			],
+			[
+				"time",
+				"timeit"
+			],
+			[
+				"nex",
+				"next_steps"
+			],
+			[
+				"set",
+				"set_validation_mode\tfunction"
+			],
+			[
+				"err",
+				"error_found"
+			],
+			[
+				"uc_",
+				"uc_counts\tstatement"
+			],
+			[
+				"root",
+				"root_i"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"save",
+				"save_interval\t(city.conf)"
+			],
+			[
+				"param",
+				"param_set"
+			],
+			[
+				"pas",
+				"parameter_space"
+			],
+			[
+				"lear",
+				"learning_rate\t(city.conf)"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"flo",
+				"float32\t(prepare_cityscapes.py)"
+			],
+			[
+				"ara",
+				"arand\t(metrics.py)"
+			],
+			[
+				"ima",
+				"image_folder"
+			],
+			[
+				"get_fla",
+				"get_flat_applied_action\t(constrained_union_find.pyx)"
+			],
+			[
+				"bou",
+				"boundary_mask"
+			],
+			[
+				"label",
+				"label_image\t(learnedWS_old.py)"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"cons",
+				"constrained_union_find\t(learnedWS_old.py)"
+			],
+			[
+				"image",
+				"image_shape"
+			],
+			[
+				"edg",
+				"edge_len"
+			],
+			[
+				"images",
+				"image_slices"
+			],
+			[
+				"star",
+				"startx"
+			],
+			[
+				"one",
+				"one_hot_class"
+			],
+			[
+				"is",
+				"isinstance\t(net.py)"
+			],
+			[
+				"act",
+				"action\t(learnedWS_old.py)"
+			],
+			[
+				"spl",
+				"split_prediction"
+			],
+			[
+				"LWS",
+				"LWSJaccardError"
+			],
+			[
+				"da",
+				"dataset_slices"
+			],
+			[
+				"as",
+				"astype\t(prepare_cityscapes.py)"
+			],
+			[
+				"min",
+				"min_pad_len"
+			],
+			[
+				"str",
+				"structures\t(learnedWS_old.py)"
+			],
+			[
+				"siz",
+				"size_t"
+			],
+			[
+				"sum",
+				"sum_loss"
+			],
+			[
+				"dtype",
+				"dtype=np.float32\t(A3C.py)"
+			],
+			[
+				"final",
+				"final_activation"
+			],
+			[
+				"static",
+				"static_dynamic_input"
+			],
+			[
+				"over",
+				"overwrite_path\t(hdf5_dataset.py)"
+			],
+			[
+				"input_dat",
+				"input_data_path"
+			],
+			[
+				"H",
+				"HDF5DatasetKeyStore"
+			],
+			[
+				"h5",
+				"h5_inp"
+			],
+			[
+				"zip",
+				"zipfile"
+			],
+			[
+				"u",
+				"utils"
+			],
+			[
+				"NotImplemented",
+				"NotImplementedError\t(learnedWS_old.py)"
+			],
+			[
+				"roo",
+				"root_i"
+			],
+			[
+				"numin",
+				"num_inst_cl"
+			],
+			[
+				"max",
+				"max_seeds"
+			],
+			[
+				"SE",
+				"SEGMENTATION_FILE_PATH"
+			],
+			[
+				"train",
+				"trainer"
+			],
+			[
+				"dyn",
+				"dynamic_channels"
+			],
+			[
+				"W",
+				"WatershedTrainer"
+			],
+			[
+				"int",
+				"int32\timport"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "callback_tutorial.py",
+			"settings":
+			{
+				"buffer_size": 4027,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+					"Force"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (All)"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (This File Only)"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeX-Plus/support/LaTex-Plus.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXBox/support/LaTex-Plus.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXBox/support/LaTex-Plus.sublime-build",
+					"Force"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (All)"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (This File Only)"
+				],
+				[
+					"Packages/LaTeXBox/support/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXBox/support/LaTeX.sublime-build",
+					"Force"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"PdfLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (All)"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (This File Only)"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"jedi",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"class sn",
+				"Snippet: New Class"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"disablke",
+				"Package Control: Disable Package"
+			],
+			[
+				"auto",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab ",
+				"Package Control: Disable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"folding",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"fold all",
+				"Code Folding: Unfold All"
+			],
+			[
+				"git status",
+				"git: status"
+			],
+			[
+				"git pull",
+				"git: pull"
+			],
+			[
+				"stat",
+				"git: status"
+			],
+			[
+				"inline",
+				"git: diff current file inline"
+			],
+			[
+				"git log",
+				"git: log"
+			],
+			[
+				"git pu",
+				"git: pull"
+			],
+			[
+				"push",
+				"git: push"
+			],
+			[
+				"pus",
+				"git: push"
+			],
+			[
+				"comm",
+				"git: commit"
+			],
+			[
+				"com",
+				"git: commit"
+			],
+			[
+				"diff inlin",
+				"git: diff current file inline"
+			],
+			[
+				"diff",
+				"git: diff"
+			],
+			[
+				"pep8",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"blame",
+				"git: blame current file"
+			],
+			[
+				"comm\t",
+				"git: commit"
+			],
+			[
+				"sta",
+				"git: status"
+			],
+			[
+				"pull",
+				"git: pull"
+			],
+			[
+				"commi",
+				"git: commit"
+			],
+			[
+				"puhs",
+				"git: push"
+			],
+			[
+				"commit",
+				"git: commit"
+			],
+			[
+				"git",
+				"git: status"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"synta",
+				"Set Syntax: Python"
+			],
+			[
+				"co",
+				"git: commit"
+			],
+			[
+				"git stat",
+				"git: status"
+			],
+			[
+				"git comm",
+				"git: commit"
+			],
+			[
+				"train",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"commite",
+				"git: commit including unstaged files"
+			],
+			[
+				"pep",
+				"AutoPEP8: Preview Changes"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inlin",
+				"git: diff current file inline"
+			],
+			[
+				"show p",
+				"SFTP: Show Panel"
+			],
+			[
+				"sftp show",
+				"SFTP: Show Panel"
+			],
+			[
+				"check",
+				"git: checkout current file"
+			],
+			[
+				"net",
+				"File: New File Relative to Current View"
+			],
+			[
+				"syn py",
+				"Set Syntax: Python"
+			],
+			[
+				"up",
+				"SFTP: Upload Folder"
+			],
+			[
+				"down",
+				"SFTP: Download File"
+			],
+			[
+				"sft",
+				"SFTP: Upload Folder"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"git inlin",
+				"git: diff current file inline"
+			],
+			[
+				"uplo",
+				"SFTP: Upload Folder"
+			],
+			[
+				"git ch",
+				"git: checkout"
+			],
+			[
+				"git commit",
+				"git: commit"
+			],
+			[
+				"build",
+				"Build With: LaTeX"
+			],
+			[
+				"latex build",
+				"LaTeXBox: Choose Build System"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"uploa",
+				"SFTP: Upload Folder"
+			],
+			[
+				"show",
+				"SFTP: Show Panel"
+			],
+			[
+				"git push",
+				"git: push"
+			],
+			[
+				"upload",
+				"SFTP: Upload Folder"
+			],
+			[
+				"sho",
+				"SFTP: Show Panel"
+			],
+			[
+				"sftp",
+				"SFTP: Upload File"
+			],
+			[
+				"puh",
+				"git: push"
+			],
+			[
+				"git d",
+				"git: diff"
+			],
+			[
+				"upl",
+				"SFTP: Upload Open Files"
+			],
+			[
+				"diff lin",
+				"git: diff current file inline"
+			],
+			[
+				"inli",
+				"git: diff current file inline"
+			],
+			[
+				"updl",
+				"SFTP: Upload Folder"
+			],
+			[
+				"aut",
+				"AutoPEP8: Preview Changes"
+			],
+			[
+				"a",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"git com",
+				"git: commit"
+			],
+			[
+				"pload",
+				"SFTP: Upload Folder"
+			],
+			[
+				"lea",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"pu",
+				"git: push"
+			],
+			[
+				"inline d",
+				"git: diff current file inline (cached)"
+			],
+			[
+				"synta py",
+				"Set Syntax: Python"
+			],
+			[
+				"git stat\t",
+				"git: status"
+			],
+			[
+				"sftp sync",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"sftp up",
+				"SFTP: Upload Folder"
+			],
+			[
+				"map",
+				"SFTP: Map to Remote…"
+			],
+			[
+				"s",
+				"SFTP: Show Panel"
+			],
+			[
+				"browse pa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"statu",
+				"git: status"
+			],
+			[
+				"syn pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"inden",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"merge ",
+				"git: merge"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"code for",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"format",
+				"CodeFormatter: Format as Python Syntax"
+			],
+			[
+				"ints",
+				"Package Control: Install Package"
+			],
+			[
+				"git inli",
+				"git: diff current file inline"
+			],
+			[
+				"repo",
+				"github: open repo"
+			],
+			[
+				"rep",
+				"github: open repo"
+			],
+			[
+				"dif",
+				"git: diff current file inline"
+			],
+			[
+				"git ",
+				"git: reset"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"git add",
+				"git: add (edit)"
+			],
+			[
+				"stage",
+				"git: quick stage"
+			],
+			[
+				"autopep",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"autop",
+				"AutoPEP8: Format Code"
+			],
+			[
+				"ard",
+				"Set Syntax: Arduino"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"subli",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"enable li",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"disa",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"spell",
+				"Google Spell Check"
+			],
+			[
+				"item",
+				"Snippet: Itemize"
+			],
+			[
+				"ta",
+				"Snippet: Tabular"
+			],
+			[
+				"tabula",
+				"Snippet: Tabular"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"wrap al",
+				"Snippet: Wrap selection in LaTeX command"
+			],
+			[
+				"tabu",
+				"Snippet: Tabular"
+			],
+			[
+				"iter",
+				"Snippet: \\item[description]"
+			],
+			[
+				"intsall",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: TeX"
+			],
+			[
+				"bib",
+				"Set Syntax: BibTeX"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Typedef"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 875.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/swolf/local/presentation/IAL-Hackathon/tutorial",
+		"/home/swolf/local/presentation/IAL-Hackathon/tutorial/callbacks",
+		"/home/swolf/local/presentation/IAL-Hackathon/tutorial/speedrun_integration"
+	],
+	"file_history":
+	[
+		"/home/swolf/local/presentation/IAL-Hackathon/tutorial/sftp-config.json",
+		"/home/swolf/local/presentation/IAL-Hackathon/tutorial/callbacks/info/triggers.py",
+		"/home/swolf/local/src/inferno/inferno/utils/train_utils.py",
+		"/home/swolf/.i3/config",
+		"/home/swolf/scripts/py3lock.py",
+		"/home/swolf/local/src/inferno/inferno/extensions/metrics/arand.py",
+		"/home/swolf/local/src/inferno/inferno/io/transform/image.py",
+		"/home/swolf/local/src/inferno/inferno/io/volumetric/volumetric_utils.py",
+		"/home/swolf/local/src/inferno/inferno/trainers/callbacks/performance.py",
+		"/home/swolf/local/src/inferno/inferno/io/core/zip.py",
+		"/home/swolf/local/src/inferno/inferno/trainers/basic.py",
+		"/home/swolf/local/src/inferno/inferno/io/volumetric/lazy_volume_loader.py",
+		"/home/swolf/local/src/inferno/inferno/io/volumetric/volume.py",
+		"/home/swolf/local/src/inferno/inferno/utils/exceptions.py",
+		"/home/swolf/local/src/inferno/inferno/trainers/callbacks/essentials.py",
+		"/home/swolf/mnt/lowbudgie/local/src/inferno/inferno/utils/python_utils.py",
+		"/home/swolf/mnt/lowbudgie/local/src/inferno/inferno/extensions/layers/convolutional.py",
+		"/home/swolf/mnt/lowbudgie/local/src/inferno/inferno/trainers/basic.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/gridsearch_script.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/configs/rapoport_pretraining.conf",
+		"/home/swolf/local/src/learned_seeded_segmentation/scripts/update_model_to_0p2.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/learnedWS.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/sftp-config.json",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/networks/dense_unet.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/tests/test_constrained_uf.py",
+		"/home/swolf/local/writing/ICCV2017-Watershed/icml_watershed.tex",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/io/hdf5_dataset.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/extensions/metrics/arand.py",
+		"/home/swolf/mnt/hci_home/local/src/data/experiments/rapoport_evo_02/evolution/297/validation/val/0000_RES/SEG_log.txt",
+		"/home/swolf/local/src/learned_seeded_segmentation/reduce_size.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/scripts/compile_union_find.sh",
+		"/home/swolf/local/src/learned_seeded_segmentation/configs/dummy.conf",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/extensions/metrics/seg_score.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/test.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/learnedWS_old.py",
+		"/home/swolf/mnt/hci_home/local/src/learned_seeded_segmentation/learnedWS/io/hdf5_dataset.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/configs/rapoport.conf",
+		"/home/swolf/mnt/lowbudgie/local/src/data/experiments/rapoport_pret_02/code/configs/rapoport.conf",
+		"/home/swolf/local/src/learned_seeded_segmentation/unused/find_errors_by_const_2.pyx",
+		"/home/swolf/local/src/learned_seeded_segmentation/unused/find_errors_by_const.pyx",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/trainWS.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/tf_net.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/scripts/find_cremi_regions.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/visualization.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/scripts/prepare_sem_inst_example.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/train_script.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/unused/data_provider.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/pytorch_net.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/extensions/metrics/jaccard.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/extensions/__init__.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/extensions/metrics/adjusted_rand_error.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/configs/city.conf",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/io/cityscapes_dataset.py",
+		"/home/swolf/local/superpixel_gen_local.sublime-project",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/utils/visualization.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/net.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/configs/PVOC.conf",
+		"/home/swolf/local/src/learned_seeded_segmentation/test_cuf.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/evaluation_script.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/module.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/scripts/evaluation_script.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/scripts/hyper_parameter_search_script.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/scripts/movie_script.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/utilities.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/constrained_union_find.pyx",
+		"/home/swolf/local/src/learned_seeded_segmentation/configs/default.conf",
+		"/home/swolf/mnt/lowbudgie/local/src/data/experiments/rapoport_01/code/configs/rapoport.conf",
+		"/home/swolf/mnt/lowbudgie/local/src/data/experiments/rapoport_02/code/configs/rapoport.conf",
+		"/home/swolf/local/<untitled 34>",
+		"/home/swolf/local/src/learned_seeded_segmentation/untitled",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/training_mutations.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/constrained_union_find.cpp",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/metrics.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/configs/validation.conf",
+		"/home/swolf/local/src/learned_seeded_segmentation/tests/test_learnedWS.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/data_provider.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/movie_script.py",
+		"/home/swolf/dropbox/CV/moderncv/curriculum_vitae.tex",
+		"/home/swolf/dropbox/uni/Masterarbeit/Theses/titlepages-eng.tex",
+		"/home/swolf/dropbox/uni/Masterarbeit/Theses/abstract-eng.tex",
+		"/home/swolf/local/src/learned_seeded_segmentation/scripts/correlation_sort.py",
+		"/home/swolf/mnt/hci_home/local/src/learned_seeded_segmentation/learnedWS/learnedWS.py",
+		"/home/swolf/mnt/hci_home/local/src/learned_seeded_segmentation/learnedWS/trainWS.py",
+		"/home/swolf/mnt/hci_home/local/src/learned_seeded_segmentation/learnedWS/net.py",
+		"/home/swolf/dropbox/uni/Masterarbeit/Theses/Master_Theses.tex",
+		"/home/swolf/dropbox/uni/Masterarbeit/Theses/abstracts.tex",
+		"/home/swolf/.config/sublime-text-3/Packages/SFTP/SFTP.sublime-settings",
+		"/home/swolf/.config/sublime-text-3/Packages/User/SFTP.errors.log",
+		"/home/swolf/.config/sublime-text-3/Packages/User/SFTP.sublime-settings",
+		"/home/swolf/local/src/learned_seeded_segmentation/train_hyper_script.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/hyper_parameter_search_script.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/adapted_unet.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/unused/network_x.py",
+		"/home/swolf/scripts/key_macros.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/unused/A3C.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/__init__.py",
+		"/home/swolf/mnt/drevil/net/hciserver03/storage/swolf/local/src/learned_seeded_segmentation/learnedWS/visualization.py",
+		"/home/swolf/local/src/thunderbird_quickmove/GTD_move/chrome/locales/en-US/quickmove.dtd",
+		"/home/swolf/local/src/thunderbird_quickmove/GTD_move/chrome/content/quickmove-overlay.xul",
+		"/home/swolf/local/src/thunderbird_quickmove/GTD_move/chrome/content/quickmove.js",
+		"/home/swolf/local/src/thunderbird_quickmove/GTD_move/modules/suffixtree.js",
+		"/home/swolf/local/src/thunderbird_quickmove/GTD_move/defaults/preferences/quickmove.js",
+		"/home/swolf/mnt/lowbudgie/tmp/nvid.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/Installation.txt",
+		"/home/swolf/local/writing/ICCV2017-Watershed/rebuttal.txt",
+		"/home/swolf/local/src/learned_seeded_segmentation/configs/hyper.conf",
+		"/home/swolf/scripts/screenshot2xclip.py",
+		"/home/swolf/scripts/screenshot2xclip",
+		"/home/swolf/scripts/rofi_launch_recent_pdf_search",
+		"/home/swolf/mnt/lowbudgie/local/src/tmp/testbind.cpp",
+		"/home/swolf/Rohdaten -markierte Ratte/debug_slow/com_extraction_ss1.py",
+		"/home/swolf/tmp/constrained_union_find_copy.pyx",
+		"/home/swolf/local/src/learned_seeded_segmentation/unet_test.py",
+		"/home/swolf/local/src/learned_seeded_segmentation/learnedWS/sftp-config.json",
+		"/home/swolf/local/src/learned_seeded_segmentation/circle.yml",
+		"/home/swolf/.config/sublime-text-3/Packages/User/sftp_servers/lowbudgie",
+		"/home/swolf/local/src/learned_seeded_segmentation/test.txt",
+		"/home/swolf/mnt/lowbudgie/local/src/learned_seeded_segmentation/learnedWS/constrained_union_find.pyx",
+		"/home/swolf/mnt/lowbudgie/local/src/learned_seeded_segmentation/learnedWS/net.py",
+		"/home/swolf/mnt/lowbudgie/local/src/learned_seeded_segmentation/configs/default.conf",
+		"/home/swolf/mnt/lowbudgie/local/src/learned_seeded_segmentation/learnedWS/utilities.py",
+		"/home/swolf/mnt/lowbudgie/local/src/learned_seeded_segmentation/learnedWS/data_provider.py",
+		"/home/swolf/mnt/lowbudgie/local/src/learned_seeded_segmentation/learnedWS/learnedWS.py",
+		"/home/swolf/mnt/lowbudgie/local/src/learned_seeded_segmentation/scripts/compile_union_find.sh",
+		"/home/swolf/mnt/adrive/swolf_local/src/superpixel_generator/show_15.png",
+		"/home/swolf/mnt/adrive/swolf_local/src/superpixel_generator/trainer_config_parser.py",
+		"/home/swolf/mnt/adrive/swolf_local/src/superpixel_generator/dataset_utils.py",
+		"/home/swolf/mnt/adrive/swolf_local/src/superpixel_generator/nets.py"
+	],
+	"find":
+	{
+		"height": 58.6666666667
+	},
+	"find_in_files":
+	{
+		"height": 152.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "callback_tutorial.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1657,
+								1657
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"incomplete_sync": null,
+							"line_numbers": true,
+							"remote_loading": false,
+							"show_definitions": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_non_interactive": false,
+								"_vintageous_processing_notation": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 25
+							},
+							"vintage_lines.line": 47,
+							"vintage_lines.lines": 131,
+							"vintage_lines.mode": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 285.333333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.GitSavvy":
+	{
+		"height": 112.0
+	},
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.autopep8":
+	{
+		"height": 88.0
+	},
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 124.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 230.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 138.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "hackathontutorial.sublime-project",
+	"replace":
+	{
+		"height": 58.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"callbabas",
+				"inferno/trainers/callbacks/base.py"
+			],
+			[
+				"callbas",
+				"inferno/trainers/callbacks/base.py"
+			],
+			[
+				"sched",
+				"inferno/trainers/callbacks/scheduling.py"
+			],
+			[
+				"torc",
+				"inferno/utils/torch_utils.py"
+			],
+			[
+				"callbac",
+				"inferno/trainers/callbacks/essentials.py"
+			],
+			[
+				"callbasche",
+				"inferno/trainers/callbacks/scheduling.py"
+			],
+			[
+				"callback",
+				"inferno/trainers/callbacks/base.py"
+			],
+			[
+				"exaple",
+				"examples/trainer.py"
+			],
+			[
+				"trainbas",
+				"inferno/trainers/basic.py"
+			],
+			[
+				"",
+				"inferno/extensions/initializers/presets.py"
+			],
+			[
+				"ima",
+				"inferno/io/transform/image.py"
+			],
+			[
+				"trans",
+				"inferno/io/transform/volume.py"
+			],
+			[
+				"call",
+				"inferno/trainers/callbacks/gradients.py"
+			],
+			[
+				"uti",
+				"inferno/utils/train_utils.py"
+			],
+			[
+				"ut",
+				"inferno/utils/train_utils.py"
+			],
+			[
+				"trainut",
+				"inferno/utils/train_utils.py"
+			],
+			[
+				"vom",
+				"~/local/src/inferno/inferno/io/volumetric/volume.py"
+			],
+			[
+				"volume",
+				"inferno/io/transform/volume.py"
+			],
+			[
+				"loader",
+				"tests/test_io/test_volumetric/test_volume_loader.py"
+			],
+			[
+				"transfo",
+				"inferno/io/transform/base.py"
+			],
+			[
+				"set",
+				"inferno/extensions/criteria/set_similarity_measures.py"
+			],
+			[
+				"ara",
+				"inferno/extensions/metrics/arand.py"
+			],
+			[
+				"transf",
+				"inferno/io/transform/base.py"
+			],
+			[
+				"iou",
+				"inferno/utils/io_utils.py"
+			],
+			[
+				"perf",
+				"~/local/src/inferno/inferno/trainers/callbacks/performance.py"
+			],
+			[
+				"load",
+				"inferno/io/volumetric/lazy_volume_loader.py"
+			],
+			[
+				"sch",
+				"inferno/trainers/callbacks/scheduling.py"
+			],
+			[
+				"callgr",
+				"inferno/trainers/callbacks/gradients.py"
+			],
+			[
+				"iocore",
+				"inferno/io/core/zip.py"
+			],
+			[
+				"meara",
+				"inferno/extensions/metrics/arand.py"
+			],
+			[
+				"callba",
+				"inferno/trainers/callbacks/scheduling.py"
+			],
+			[
+				"exmetr",
+				"inferno/extensions/metrics/base.py"
+			],
+			[
+				"bas",
+				"inferno/trainers/basic.py"
+			],
+			[
+				"c__init",
+				"inferno/extensions/criteria/__init__.py"
+			],
+			[
+				"criteria",
+				"inferno/extensions/criteria/core.py"
+			],
+			[
+				"vol",
+				"inferno/io/volumetric/volume.py"
+			],
+			[
+				"volum",
+				"inferno/io/volumetric/volume.py"
+			],
+			[
+				"core",
+				"inferno/extensions/criteria/core.py"
+			],
+			[
+				"testv",
+				"tests/test_io/test_volumetric/test_lazy_volume_loader.py"
+			],
+			[
+				"la",
+				"inferno/io/volumetric/lazy_volume_loader.py"
+			],
+			[
+				"grad",
+				"inferno/trainers/callbacks/gradients.py"
+			],
+			[
+				"basi",
+				"inferno/trainers/basic.py"
+			],
+			[
+				"logger",
+				"inferno/trainers/callbacks/logging/tensorboard.py"
+			],
+			[
+				"trainer",
+				"inferno/trainers/basic.py"
+			],
+			[
+				"uttrain",
+				"inferno/utils/train_utils.py"
+			],
+			[
+				"conv",
+				"inferno/extensions/layers/convolutional.py"
+			],
+			[
+				"trainer/ba",
+				"inferno/trainers/basic.py"
+			],
+			[
+				"ra",
+				"configs/rapoport.conf"
+			],
+			[
+				"py",
+				"learnedWS/networks/pytoch_builder.py"
+			],
+			[
+				"build",
+				"learnedWS/extensions/metrics/metric_builder.py"
+			],
+			[
+				"dense",
+				"learnedWS/networks/dense_unet.py"
+			],
+			[
+				"trains",
+				"train_script.py"
+			],
+			[
+				"trian",
+				"learnedWS/trainWS.py"
+			],
+			[
+				"lea",
+				"learnedWS/learnedWS.py"
+			],
+			[
+				"cons",
+				"learnedWS/constrained_union_find.pyx"
+			],
+			[
+				"vis",
+				"learnedWS/utils/visualization.py"
+			],
+			[
+				"bui",
+				"learnedWS/networks/pytoch_builder.py"
+			],
+			[
+				"buil",
+				"learnedWS/networks/pytoch_builder.py"
+			],
+			[
+				"grid",
+				"gridsearch_script.py"
+			],
+			[
+				"tra",
+				"learnedWS/trainWS.py"
+			],
+			[
+				"trins",
+				"train_script.py"
+			],
+			[
+				"un",
+				"learnedWS/networks/dense_unet.py"
+			],
+			[
+				"train",
+				"learnedWS/trainWS.py"
+			],
+			[
+				"trai",
+				"learnedWS/trainWS.py"
+			],
+			[
+				"traw",
+				"learnedWS/trainWS.py"
+			],
+			[
+				"leaw",
+				"learnedWS/learnedWS.py"
+			],
+			[
+				"rapre",
+				"configs/rapoport_pretraining.conf"
+			],
+			[
+				"pre",
+				"scripts/prepare_rapoport.py"
+			],
+			[
+				"traiw",
+				"learnedWS/trainWS.py"
+			],
+			[
+				"conf",
+				"learnedWS/utils/config_parser.py"
+			],
+			[
+				"tini",
+				"tiny_experiments.py"
+			],
+			[
+				"tin",
+				"tiny_experiments.py"
+			],
+			[
+				"pyt",
+				"learnedWS/networks/pytoch_builder.py"
+			],
+			[
+				"de",
+				"configs/default.conf"
+			],
+			[
+				"dens",
+				"learnedWS/networks/dense_unet.py"
+			],
+			[
+				"con",
+				"learnedWS/constrained_union_find.pyx"
+			],
+			[
+				"e",
+				"evolution_script.py"
+			],
+			[
+				"evo",
+				"evolution_script.py"
+			],
+			[
+				"confi",
+				"learnedWS/utils/config_parser.py"
+			],
+			[
+				"r",
+				"configs/rapoport.conf"
+			],
+			[
+				"parser",
+				"learnedWS/utils/config_parser.py"
+			],
+			[
+				"gir",
+				"gridsearch_script.py"
+			],
+			[
+				"gr",
+				"gridsearch_script.py"
+			],
+			[
+				"data",
+				"learnedWS/io/hdf5_dataset.py"
+			],
+			[
+				"met",
+				"~/local/src/learned_seeded_segmentation/learnedWS/metrics.py"
+			],
+			[
+				"trin",
+				"train_script.py"
+			],
+			[
+				"gird",
+				"gridsearch_script.py"
+			],
+			[
+				"t",
+				"tiny_experiments.py"
+			],
+			[
+				"confpa",
+				"learnedWS/utils/config_parser.py"
+			],
+			[
+				"le",
+				"learnedWS/learnedWS.py"
+			],
+			[
+				"prec",
+				"scripts/prepare_cityscapes.py"
+			],
+			[
+				"prep",
+				"scripts/prepare_cityscapes.py"
+			],
+			[
+				"prera",
+				"scripts/prepare_rapoport.py"
+			],
+			[
+				"prepa",
+				"scripts/prepare_rapoport.py"
+			],
+			[
+				"datase",
+				"learnedWS/io/hdf5_dataset.py"
+			],
+			[
+				"rap",
+				"configs/rapoport_pretraining.conf"
+			],
+			[
+				"trians",
+				"train_script.py"
+			],
+			[
+				"pytor",
+				"learnedWS/networks/pytoch_builder.py"
+			],
+			[
+				"trainws",
+				"learnedWS/trainWS.py"
+			],
+			[
+				"config",
+				"learnedWS/utils/config_parser.py"
+			],
+			[
+				"tri",
+				"train_script.py"
+			],
+			[
+				"provi",
+				"~/local/src/learned_seeded_segmentation/learnedWS/data_provider.py"
+			],
+			[
+				"const",
+				"learnedWS/constrained_union_find.pyx"
+			],
+			[
+				"test",
+				"tests/test_constrained_uf.py"
+			],
+			[
+				"dese",
+				"learnedWS/networks/dense_unet.py"
+			],
+			[
+				"lw",
+				"learnedWS/learnedWS.py"
+			],
+			[
+				"consr",
+				"learnedWS/constrained_union_find.pyx"
+			],
+			[
+				"vus",
+				"learnedWS/utils/visualization.py"
+			],
+			[
+				"den",
+				"learnedWS/networks/dense_unet.py"
+			],
+			[
+				"ne",
+				"learnedWS/networks/pytoch_builder.py"
+			],
+			[
+				"net",
+				"unused/net.py"
+			],
+			[
+				"deu",
+				"learnedWS/networks/dense_unet.py"
+			],
+			[
+				"du",
+				"learnedWS/networks/dense_unet.py"
+			],
+			[
+				"trainw",
+				"learnedWS/trainWS.py"
+			],
+			[
+				"cos",
+				"learnedWS/constrained_union_find.pyx"
+			],
+			[
+				"dene",
+				"learnedWS/networks/dense_unet.py"
+			],
+			[
+				"tain",
+				"learnedWS/trainWS.py"
+			],
+			[
+				"tes",
+				"tests/test_constrained_uf.py"
+			],
+			[
+				"provid",
+				"~/local/src/learned_seeded_segmentation/learnedWS/data_provider.py"
+			],
+			[
+				"ini",
+				"learnedWS/__init__.py"
+			],
+			[
+				"u",
+				"learnedWS/networks/dense_unet.py"
+			],
+			[
+				"unet",
+				"learnedWS/networks/dense_unet.py"
+			],
+			[
+				"lear",
+				"learnedWS/learnedWS.py"
+			],
+			[
+				"cosn",
+				"learnedWS/constrained_union_find.pyx"
+			],
+			[
+				"arand",
+				"learnedWS/extensions/metrics/arand.py"
+			],
+			[
+				"com",
+				"scripts/compile_union_find.sh"
+			],
+			[
+				"comp",
+				"scripts/compile_union_find.sh"
+			],
+			[
+				"cit",
+				"configs/cityscapes_pretraining.conf"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "hac",
+		"selected_items":
+		[
+			[
+				"hac",
+				"~/local/presentation/IAL-Hackathon/tutorial/hackathontutorial.sublime-workspace"
+			],
+			[
+				"hacka",
+				"~/local/presentation/IAL-Hackathon/tutorial/hackathontutorial.sublime-workspace"
+			],
+			[
+				"spe",
+				"~/local/src/speedrun.sublime-project"
+			],
+			[
+				"emb",
+				"~/local/src/embeddingutils.sublime-project"
+			],
+			[
+				"",
+				"~/local/src/ncsegmentation.sublime-workspace"
+			],
+			[
+				"ctc",
+				"~/local/src/ctctracking.sublime-project"
+			],
+			[
+				"de",
+				"~/local/src/deepspacelearning.sublime-project"
+			],
+			[
+				"s",
+				"~/local/src/speedrun.sublime-project"
+			],
+			[
+				"spee",
+				"~/local/src/speedrun.sublime-project"
+			],
+			[
+				"em",
+				"~/local/src/embeddingutils.sublime-project"
+			],
+			[
+				"speed",
+				"~/local/src/speedrun.sublime-project"
+			],
+			[
+				"infere",
+				"~/local/src/inferno.sublime-project"
+			],
+			[
+				"tra",
+				"~/local/src/trackingutils.sublime-project"
+			],
+			[
+				"ct",
+				"~/local/src/ctctracking.sublime-project"
+			],
+			[
+				"t",
+				"~/local/src/trackingutils.sublime-project"
+			],
+			[
+				"infer",
+				"~/local/src/inferno.sublime-project"
+			],
+			[
+				"neu",
+				"~/local/src/neurofire.sublime-project"
+			],
+			[
+				"inf",
+				"~/local/src/inferno.sublime-project"
+			],
+			[
+				"ne",
+				"~/local/src/neurofire.sublime-project"
+			],
+			[
+				"skunk",
+				"~/local/src/neuro-skunkworks.sublime-project"
+			],
+			[
+				"cec",
+				"~/local/src/ctctracking.sublime-project"
+			],
+			[
+				"embe",
+				"~/local/src/embeddingutils.sublime-project"
+			],
+			[
+				"c",
+				"~/local/src/ctctracking.sublime-project"
+			],
+			[
+				"dee",
+				"~/local/src/deepspacelearning.sublime-project"
+			],
+			[
+				"neur",
+				"~/local/src/neurofire.sublime-project"
+			],
+			[
+				"wri",
+				"~/local/writing/WS-ICML2017.sublime-project"
+			],
+			[
+				"low",
+				"~/mnt/lowbudgie/home/swolf-local/local/src/lowbudgie_ws.sublime-project"
+			],
+			[
+				"ala",
+				"~/mnt/albatross/supervoxel_albatross.sublime-project"
+			],
+			[
+				"run",
+				"~/Dropbox/uni/Masterarbeit/Theses/MasterThesis.sublime-project"
+			],
+			[
+				"tratra",
+				"~/tastyturkey/home/swolf/local/src/tracklettracking_tastyturkey.sublime-project"
+			],
+			[
+				"a",
+				"~/Dropbox/PhD/Application/application.sublime-project"
+			]
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 588.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 588.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 434.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
